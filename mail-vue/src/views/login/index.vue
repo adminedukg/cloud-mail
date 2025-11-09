@@ -141,7 +141,7 @@
       </div>
     </el-dialog>
     <a class="github" href="https://mail.xxxx.us.kg/login">
-      
+      <Icon icon="mingcute:<githb-linr" color="#1890ff" width="0" height="0" />
     </a>
   </div>
 </template>
