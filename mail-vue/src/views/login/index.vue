@@ -140,8 +140,8 @@
         </el-button>
       </div>
     </el-dialog>
-    <a class="github-line" href="https://mail.xxxx.us.kg/login">
-      <Icon icon="https://tu.shitou.edu.kg/file/AgACAgUAAyEGAAS3PcISAAMqaRD4h4dwHzJW8jp2PPO0Xw8r5n4AAgMLaxvCS4lUBmzwgLxmq7gBAAMCAANtAAM2BA.png" color="#1890ff" width="0" height="0" />
+    <a class="github" href="https://mail.xxxx.us.kg/login">
+      <Icon icon="mingcute:github-line" color="#1890ff" width="20" height="20" />
     </a>
   </div>
 </template>
