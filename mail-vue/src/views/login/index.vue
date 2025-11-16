@@ -141,7 +141,7 @@
       </div>
     </el-dialog>
     <a class="github-line" href="https://mail.xxxx.us.kg/login">
-      <img src="https://api.iconify.design/logos:telegram.svg" alt="GitHub" width="20" height="20" />
+      <img src="https://api.iconify.design/logos:telegram.svg" color="#1890ff" width="20" height="20" />
     </a>
   </div>
 </template>
