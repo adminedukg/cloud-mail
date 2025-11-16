@@ -141,7 +141,7 @@
       </div>
     </el-dialog>
     <a class="github-line" href="https://mail.xxxx.us.kg/login">
-      
+      <Icon icon="mingcute:telegram.svg" color="#1890ff" width="20" height="20" />
     </a>
   </div>
 </template>
