@@ -140,8 +140,8 @@
         </el-button>
       </div>
     </el-dialog>
-    <a class="github" href="https://mail.xxxx.us.kg">
-      <Icon icon="mingcute:si--home-line" color="#1890ff" width="24" height="24" />
+    <a class="home" href="https://mail.xxxx.us.kg">
+      <Icon icon="mingcute:si-home-line" color="#1890ff" width="24" height="24" />
     </a>
   </div>
 </template>
