@@ -141,7 +141,7 @@
       </div>
     </el-dialog>
     <a class="github" href="https://mail.xxxx.us.kg">
-      <Icon icon="mingcute:home-line" color="#1890ff" width="20" height="20" />
+      <Icon icon="mingcute:si--home-line" color="#1890ff" width="20" height="20" />
     </a>
   </div>
 </template>
