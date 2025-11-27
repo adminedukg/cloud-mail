@@ -676,7 +676,7 @@ function submitRegister() {
   top: 6px;
 }
 
-.github {
+.home {
   position: fixed;
   width: 35px;
   height: 35px;
