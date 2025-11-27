@@ -141,7 +141,7 @@
       </div>
     </el-dialog>
     <a class="home" href="https://mail.xxxx.us.kg">
-      <Icon icon="tabler:home-filled" width="24" height="24" />
+      <Icon icon="tabler:home-filled" color="#1890ff" width="24" height="24" />
     </a>
   </div>
 </template>
